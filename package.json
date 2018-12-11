@@ -17,8 +17,8 @@
     "echarts-for-react": "^2.0.6",
     "history": "^4.7.2",
     "moment": "^2.22.2",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.1"
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
