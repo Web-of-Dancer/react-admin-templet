@@ -1,4 +1,4 @@
-# 游戏房间机器人积分配置功能
+# 
 ## 依赖
 ### npm install || cnpm install
 ## 运行
